@@ -1,6 +1,6 @@
 # loft
 
-> test task for loft company demo https://test-for-loft.firebaseapp.com/
+>demo https://test-for-loft.firebaseapp.com/
 
 ## Build Setup
 
